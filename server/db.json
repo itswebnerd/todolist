@@ -1,0 +1,46 @@
+{
+    "tasks" : [
+        {
+            "id":1,
+            "name":"Filling Form",
+            "description":"This is about to ask parent holiday",
+            "deadline":"2021-10-10",
+            "status":"PENDING",
+            "todoId":1
+        },
+        {
+            "id":2,
+            "name":"Informing Head Office",
+            "description":"This is about to inform head office",
+            "deadline":"2021-10-10",
+            "status":"PENDING",
+            "todoId":1
+        },
+        {
+            "id":3,
+            "name":"Informing CM",
+            "description":"This is about to inform CM",
+            "deadline":"2021-10-10",
+            "status":"PENDING",
+            "todoId":1
+        },
+        {
+            "id":4,
+            "name":"Sending Confirmation",
+            "description":"This is about to send a confirmation to the employee.",
+            "deadline":"2021-10-10",
+            "status":"PENDING",
+            "todoId":1
+        }
+    ],
+
+    "todo": [
+        {
+            "id":1,
+            "title":"Arranging Parents Holidays",
+            "description":"This is about to ask parent holiday",
+            "before":"2021-10-10",
+            "status": "INPROGRESS"
+        }
+    ]
+}
